@@ -1,0 +1,16 @@
+{
+    "name": "yaroshchuk/cli",
+    "description": "cli url parser for collect image links in .csv files",
+    "authors": [
+        {
+            "name": "YaroshchukAlex",
+            "email": "ayaroshchuk43@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Citrus\\": "./"
+        }
+    }
+}
