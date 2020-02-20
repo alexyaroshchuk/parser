@@ -3,7 +3,7 @@
 Руководство по запуску:
 
 1. composer install
-2. Запуск через консоль: ./Commander.php --команда параметр
+2. Запуск через консоль: ./Commander.php --command url
 
      Example: 
      
